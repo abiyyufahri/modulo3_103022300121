@@ -33,7 +33,7 @@ namespace modul03_103022300121
         {
             if (kedua == "-1" || ketiga == "-1" ||  pertama == "0")
             {
-                pertama = "2";
+                pertama = pertama + "2";
                 label1.Text = label1.Text + "2";
             }
             
@@ -43,7 +43,7 @@ namespace modul03_103022300121
         {
             if (kedua == "-1" || ketiga == "-1" ||  pertama == "0")
             {
-                pertama = "3";
+                pertama = pertama + "3";
                 label1.Text = label1.Text + "3";
             }
             
@@ -53,7 +53,7 @@ namespace modul03_103022300121
         {
             if (kedua == "-1" || ketiga == "-1" ||  pertama == "0")
             {
-                pertama = "4";
+                pertama = pertama + "4";
                 label1.Text = label1.Text + "4";
             }
             
@@ -63,7 +63,7 @@ namespace modul03_103022300121
         {
             if (kedua == "-1" || ketiga == "-1" ||  pertama == "0")
             {
-                pertama = "5";
+                pertama = pertama + "5";
                 label1.Text = label1.Text + "5";
             }
             
@@ -73,7 +73,7 @@ namespace modul03_103022300121
         {
             if (kedua == "-1" || ketiga == "-1" ||  pertama == "0")
             {
-                pertama = "6";
+                pertama = pertama + "6";
                 label1.Text = label1.Text + "6";
             }
             
@@ -83,7 +83,7 @@ namespace modul03_103022300121
         {
             if (kedua == "-1" || ketiga == "-1" ||  pertama == "0")
             {
-                pertama = "7";
+                pertama = pertama + "7";
                 label1.Text = label1.Text + "7";
             }
             
@@ -93,7 +93,7 @@ namespace modul03_103022300121
         {
             if (kedua == "-1" || ketiga == "-1" ||  pertama == "0")
             {
-                pertama = "8";
+                pertama = pertama + "8";
                 label1.Text = label1.Text + "8";
             }
             
@@ -103,7 +103,7 @@ namespace modul03_103022300121
         {
             if (kedua == "-1" || ketiga == "-1" ||  pertama == "0")
             {
-                pertama = "9";
+                pertama = pertama + "9";
                 label1.Text = label1.Text + "9";
             }
             
@@ -113,7 +113,7 @@ namespace modul03_103022300121
         {
             if (kedua == "-1" || ketiga == "-1" ||  pertama == "0")
             {
-                pertama = "0";
+                pertama = pertama + "0";
                 label1.Text = label1.Text + "0";
             }
             
