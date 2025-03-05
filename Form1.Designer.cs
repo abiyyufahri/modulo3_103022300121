@@ -29,7 +29,6 @@
         private void InitializeComponent()
         {
             label1 = new Label();
-            button1 = new Button();
             button2 = new Button();
             button3 = new Button();
             button4 = new Button();
@@ -47,21 +46,12 @@
             // label1
             // 
             label1.AutoSize = true;
+            label1.Font = new Font("Segoe UI", 12F);
             label1.Location = new Point(210, 76);
             label1.Name = "label1";
-            label1.Size = new Size(45, 15);
+            label1.Size = new Size(0, 21);
             label1.TabIndex = 0;
-            label1.Text = "Output";
             label1.Click += label1_Click;
-            // 
-            // button1
-            // 
-            button1.Location = new Point(0, 0);
-            button1.Name = "button1";
-            button1.Size = new Size(75, 23);
-            button1.TabIndex = 1;
-            button1.Text = "button1";
-            button1.UseVisualStyleBackColor = true;
             // 
             // button2
             // 
@@ -171,6 +161,7 @@
             button12.TabIndex = 12;
             button12.Text = "+";
             button12.UseVisualStyleBackColor = true;
+            button12.Click += buttonPlus_Click;
             // 
             // button13
             // 
@@ -180,6 +171,7 @@
             button13.TabIndex = 13;
             button13.Text = "=";
             button13.UseVisualStyleBackColor = true;
+            button13.Click += buttonEqual_Click;
             // 
             // Form1
             // 
@@ -198,7 +190,6 @@
             Controls.Add(button4);
             Controls.Add(button3);
             Controls.Add(button2);
-            Controls.Add(button1);
             Controls.Add(label1);
             Name = "Form1";
             Text = "Form1";
@@ -209,7 +200,6 @@
         #endregion
 
         private Label label1;
-        private Button button1;
         private Button button2;
         private Button button3;
         private Button button4;

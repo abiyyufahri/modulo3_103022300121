@@ -1,0 +1,17 @@
+D:\modul03\modul03_103022300121\bin\Debug\net8.0-windows\modul03_103022300121.exe
+D:\modul03\modul03_103022300121\bin\Debug\net8.0-windows\modul03_103022300121.deps.json
+D:\modul03\modul03_103022300121\bin\Debug\net8.0-windows\modul03_103022300121.runtimeconfig.json
+D:\modul03\modul03_103022300121\bin\Debug\net8.0-windows\modul03_103022300121.dll
+D:\modul03\modul03_103022300121\bin\Debug\net8.0-windows\modul03_103022300121.pdb
+D:\modul03\modul03_103022300121\obj\Debug\net8.0-windows\modul03_103022300121.Form1.resources
+D:\modul03\modul03_103022300121\obj\Debug\net8.0-windows\modul03_103022300121.csproj.GenerateResource.cache
+D:\modul03\modul03_103022300121\obj\Debug\net8.0-windows\modul03_103022300121.GeneratedMSBuildEditorConfig.editorconfig
+D:\modul03\modul03_103022300121\obj\Debug\net8.0-windows\modul03_103022300121.AssemblyInfoInputs.cache
+D:\modul03\modul03_103022300121\obj\Debug\net8.0-windows\modul03_103022300121.AssemblyInfo.cs
+D:\modul03\modul03_103022300121\obj\Debug\net8.0-windows\modul03_103022300121.csproj.CoreCompileInputs.cache
+D:\modul03\modul03_103022300121\obj\Debug\net8.0-windows\modul03_103022300121.sourcelink.json
+D:\modul03\modul03_103022300121\obj\Debug\net8.0-windows\modul03_103022300121.dll
+D:\modul03\modul03_103022300121\obj\Debug\net8.0-windows\refint\modul03_103022300121.dll
+D:\modul03\modul03_103022300121\obj\Debug\net8.0-windows\modul03_103022300121.pdb
+D:\modul03\modul03_103022300121\obj\Debug\net8.0-windows\modul03_103022300121.genruntimeconfig.cache
+D:\modul03\modul03_103022300121\obj\Debug\net8.0-windows\ref\modul03_103022300121.dll
